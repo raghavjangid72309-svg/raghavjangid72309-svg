@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/spider-banner.svg" width="100%" alt="Raghav Jangid banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:d11a2a,50:1a1033,100:2b6cff&height=260&section=header&text=Raghav%20Jangid&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%95%B7%EF%B8%8F%20AI%2FML%20Developer%20%7C%20Full-Stack%20%7C%20Builder%20%F0%9F%95%B8%EF%B8%8F&descSize=20&descAlignY=62&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF2A2A&center=true&vCenter=true&width=640&lines=Swinging+through+code+%F0%9F%95%B8%EF%B8%8F;Building+AI-powered+products+%F0%9F%A4%96;With+great+power+comes+great+commits+%F0%9F%92%BB;Full-stack+%7C+Automation+%7C+Hackathons+%F0%9F%8F%86" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d11a2a,100:2b6cff&height=4" width="100%" alt="" />
 
 ## 🕸️ About Me
 
@@ -27,7 +27,7 @@ I enjoy turning ideas into working products in **AI**, **Web Development**, and 
 - 🌱 Learning: **Machine Learning, Next.js, system design**
 - 🤝 Open to: **collaborations, hackathons, open source**
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d11a2a,100:2b6cff&height=4" width="100%" alt="" />
 
 ## 💻 Tech Stack
 
@@ -48,7 +48,7 @@ I enjoy turning ideas into working products in **AI**, **Web Development**, and 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d11a2a,100:2b6cff&height=4" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -62,7 +62,7 @@ I enjoy turning ideas into working products in **AI**, **Web Development**, and 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d11a2a,100:2b6cff&height=4" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
@@ -85,24 +85,13 @@ I enjoy turning ideas into working products in **AI**, **Web Development**, and 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavjangid72309-svg/raghavjangid72309-svg/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/raghavjangid72309-svg/raghavjangid72309-svg/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d11a2a,100:2b6cff&height=4" width="100%" alt="" />
 
 ## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raghavjangid72309-svg&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -111,3 +100,5 @@ I enjoy turning ideas into working products in **AI**, **Web Development**, and 
 <a href="mailto:raghavjangid72309@gmail.com"><img src="https://img.shields.io/badge/Let's%20Collaborate-D11A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Collaborate" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2b6cff,50:1a1033,100:d11a2a&height=140&section=footer" width="100%" alt="footer" />
